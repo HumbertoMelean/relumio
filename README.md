@@ -1,66 +1,81 @@
-🚀 Relumio the Relume Library Clone
+# 🚀 **Relumio the Relume Library Clone**
 
-Rebuilding the Relume Library from scratch using HTML, CSS, and JavaScript to strengthen my web development fundamentals.
+Rebuilding the **Relume Library** from scratch using **HTML**, **CSS**, and **JavaScript** to strengthen my web development fundamentals.
 
-📚 About the Project
+---
 
-Relumio aims to recreate every component from the Relume Library using vanilla web technologies. With over 1,500 components, this journey will focus on mastering:
+## 📚 **About the Project**
 
-Semantic HTML structure
+This project aims to recreate every component from the **Relume Library** using vanilla web technologies. With over **1,500 components**, this journey will focus on mastering:
 
-Modern CSS styling
+- Semantic **HTML** structure
+- Modern **CSS** styling
+- Dynamic **JavaScript** interactions
 
-Dynamic JavaScript interactions
+The project will serve as both a **learning exercise** and a **portfolio showcase**.
 
-The project will serve as both a learning exercise and a portfolio showcase.
+---
 
-📊 Progress
+## 📊 **Progress**
 
-✅ Completed: 2 / 1509 Components
+> **✅ Completed:** 2 / 1509 Components
 
+```txt
 Progress: [##------------------------------------------------] (0.13%)
+```
 
 This progress bar will be updated regularly as new components are completed.
 
-🛠️ Technologies Used
+---
 
-HTML5
+## 🛠️ **Technologies Used**
 
-CSS3
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-JavaScript (ES6+)
+---
 
-📦 Project Structure
+## 📦 **Project Structure**
 
+```
 root/
 ├── index.html
 ├── styles/
-│ ├── main.css
+│   ├── main.css
 ├── scripts/
-│ ├── main.js
+│   ├── main.js
 └── components/
-├── navbar/
-├──navbar1
-├──navbar2
-├── banner/
+    ├── navbar/
+        ├── navbar1
+        ├── navbar2
+    ├── banner/
 
-🚧 Future Plans
+```
 
-Complete all 1,509 components
+---
 
-Add responsiveness and accessibility
+## 🚧 **Future Plans**
 
-Host the project online for public access
+- Complete all **1,509 components**
+- Add responsiveness and accessibility
+- Host the project online for public access
 
-🤝 Contributing
+---
+
+## 🤝 **Contributing**
 
 While this is primarily a personal learning project, feel free to open an issue or suggest improvements.
 
-📄 License
+---
 
-This project is licensed under the MIT License.
+## 📄 **License**
 
-🌟 Follow Along
+This project is licensed under the **MIT License**.
+
+---
+
+## 🌟 **Follow Along**
 
 Stay updated with my progress and feel free to star ⭐ the repository if you find it interesting!
 
