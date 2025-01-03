@@ -32,6 +32,11 @@ figcaption {
   max-width: 65ch;
 }
 
+ol,
+ul {
+  list-style: none;
+}
+
 .navbar1_component {
   display: flex;
   justify-content: center;
@@ -39,4 +44,11 @@ figcaption {
 
 .navbar1_wrapper {
   display: flex;
+  border: solid 1px black;
+  align-items: center;
+}
+
+.links_wrapper {
+  display: flex;
+  /* gap: 1rem; */
 }
