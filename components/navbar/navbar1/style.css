@@ -1,6 +1,6 @@
-* {
-  margin: 0;
-  padding: 0;
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
@@ -30,4 +30,13 @@ li,
 figcaption {
   text-wrap: pretty;
   max-width: 65ch;
+}
+
+.navbar1_component {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar1_wrapper {
+  display: flex;
 }
